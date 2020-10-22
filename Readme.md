@@ -7,7 +7,7 @@
 
 
 ```js
-const express = require('express')
+const express = require('@jonyk56/express-cors')
 const app = express()
 
 app.get('/', function (req, res) {
