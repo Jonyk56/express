@@ -2,7 +2,7 @@
   "name": "@jonyk56/express-cors",
   "description": "express, with cors preinstalled ;)",
   "version": "1.0.0",
-  "author": "TJ Holowaychuk <jtechmaster02@gmail.com>",
+  "author": "Jonyk56 <jtechmaster02@gmail.com>",
   "license": "MIT",
   "repository": "expressjs/express",
   "homepage": "http://expressjs.com",
