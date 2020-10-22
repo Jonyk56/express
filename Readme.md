@@ -1,12 +1,10 @@
 [![Express Logo](https://i.cloudup.com/zfY6lL7eFa-3000x3000.png)](http://expressjs.com/)
 
-  Fast, unopinionated, minimalist web framework for [node](http://nodejs.org).
+  Basically, *No more issues with cors* [express](http://expressjs.com).
 
   [![NPM Version][npm-image]][npm-url]
   [![NPM Downloads][downloads-image]][downloads-url]
-  [![Linux Build][travis-image]][travis-url]
-  [![Windows Build][appveyor-image]][appveyor-url]
-  [![Test Coverage][coveralls-image]][coveralls-url]
+
 
 ```js
 const express = require('express')
@@ -110,7 +108,7 @@ $ npm start
   To view the examples, clone the Express repo and install the dependencies:
 
 ```bash
-$ git clone git://github.com/expressjs/express.git --depth 1
+$ git clone git://github.com/jonyk56/express.git --depth 1
 $ cd express
 $ npm install
 ```
@@ -134,25 +132,14 @@ $ npm test
 
 [Contributing Guide](Contributing.md)
 
-## People
 
-The original author of Express is [TJ Holowaychuk](https://github.com/tj)
-
-The current lead maintainer is [Douglas Christopher Wilson](https://github.com/dougwilson)
-
-[List of all contributors](https://github.com/expressjs/express/graphs/contributors)
 
 ## License
 
   [MIT](LICENSE)
 
-[npm-image]: https://img.shields.io/npm/v/express.svg
-[npm-url]: https://npmjs.org/package/express
+[npm-image]: https://img.shields.io/npm/v/Jonyk56/express.svg
+[npm-url]: https://npmjs.org/package/@jonyk56/express-cors
 [downloads-image]: https://img.shields.io/npm/dm/express.svg
-[downloads-url]: https://npmcharts.com/compare/express?minimal=true
-[travis-image]: https://img.shields.io/travis/expressjs/express/master.svg?label=linux
-[travis-url]: https://travis-ci.org/expressjs/express
-[appveyor-image]: https://img.shields.io/appveyor/ci/dougwilson/express/master.svg?label=windows
-[appveyor-url]: https://ci.appveyor.com/project/dougwilson/express
-[coveralls-image]: https://img.shields.io/coveralls/expressjs/express/master.svg
-[coveralls-url]: https://coveralls.io/r/expressjs/express?branch=master
+[downloads-url]: https://npmcharts.com/compare/Jonyk56/express?minimal=true
+
